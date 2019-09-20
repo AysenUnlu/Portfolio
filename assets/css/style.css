@@ -67,6 +67,7 @@ section{
     left:240px;
     clear:both;
     width:960px;
+    height:550px;
     background-color:#ffffff;
     border:1px solid #dddddd;
     overflow:auto;
@@ -143,7 +144,7 @@ footer{
 /*message is the text area. It's height is longer than the text fields and color of its
   border is adjusted*/
 #message{
-    height:250px;
+    height:225px;
     border:1px solid #dddddd;
 }
 /*styles related to submit button*/
@@ -227,6 +228,7 @@ footer{
 #portfolio{
     top:125px;
     bottom:70px;
+    height:530px;
 }
 /*There is one image placeholder unfortunately because of its white background fades into the section background. It needed to have border*/
 .pimage{
